@@ -1,5 +1,5 @@
 # TSF-GAN
-Temporal-Spectral feature Fusion GAN for multi vehicle trajectory prediction at signalized intersection
+Temporal-Spectral feature Fusion GAN for Multi Vehicles Trajectory Prediction at Signalized Intersection
 
 ## Data Avaliability
 This work uses the SIND dataset for training and evaluation. 
